@@ -23,7 +23,7 @@ export default function Nav() {
   const links = [
     { to: '/', label: 'Home' },
     { to: '/services', label: 'Services' },
-    // { to: '/shop', label: 'Shop' },
+    { to: '/shop', label: 'Shop' },
     { to: '/about', label: 'About' },
     { to: '/contact', label: 'Contact' },
   ]
